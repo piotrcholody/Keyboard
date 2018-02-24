@@ -1,3 +1,3 @@
 # Keyboard
 
-Simple keyboard for ARM LPC1768 with speaker and lcd touch screen.
+Simple keyboard/piano for ARM LPC1768 with speaker and lcd touch screen.
